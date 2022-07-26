@@ -1,0 +1,1 @@
+Custom Resources are a very powerful Kubernetes feature, which allow you to create your own ‘first class’ resources (just like Pods, ReplicaSets, Deployments or whatever) and then interface with them using kubectl or the Kubernetes APIs.
